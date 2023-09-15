@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009876972896",
+    "project_id": "alemeno-958b3",
+    "storage_bucket": "alemeno-958b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009876972896:android:2ea50386587fe039211a05",
+        "android_client_info": {
+          "package_name": "com.keshavalemeno.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnF9HunDB4jrnOJkVI57OG3Rnmo0gIe_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
